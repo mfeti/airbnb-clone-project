@@ -105,10 +105,6 @@ The **Airbnb Clone Project** is a full-stack application replicating the core fe
 All tasks from **Project Initialization → CI/CD Overview** are documented here.  
 Repo is ready for manual review.  
 
----
-
-## 📸 Screenshots (Optional)  
-_Add screenshots of your project here once UI is implemented._  
 
 ---
 
